@@ -5738,7 +5738,7 @@
     "Name": " Play Online",
     "Description": "Playing an Online Match",
     "Unlock": "Play an online match",
-    "Requirement": "Misc",
+    "Requirement": "Completion",
     "Reward": "None"
   },
   {
@@ -5747,7 +5747,7 @@
     "Name": " Win Online",
     "Description": "Winning an Online Match",
     "Unlock": "Win an online match",
-    "Requirement": "Misc",
+    "Requirement": "Completion",
     "Reward": "None"
   },
   {
@@ -5756,7 +5756,7 @@
     "Name": " Win Online Daily",
     "Description": "Winning an online Daily Run",
     "Unlock": "Win an online Daily Run",
-    "Requirement": "Misc",
+    "Requirement": "Completion",
     "Reward": "None"
   }
 ]
