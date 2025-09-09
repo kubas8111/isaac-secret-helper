@@ -5731,5 +5731,32 @@
     "Unlock": "Unlock all the other achievements and collect every item in the game",
     "Requirement": "Completion",
     "Reward": "None"
+  },
+  {
+    "Id": 638,
+    "Dlc": "RepentancePlus",
+    "Name": " Play Online",
+    "Description": "Playing an Online Match",
+    "Unlock": "Play an online match",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 639,
+    "Dlc": "RepentancePlus",
+    "Name": " Win Online",
+    "Description": "Winning an Online Match",
+    "Unlock": "Win an online match",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 640,
+    "Dlc": "RepentancePlus",
+    "Name": " Win Online Daily",
+    "Description": "Winning an online Daily Run",
+    "Unlock": "Win an online Daily Run",
+    "Requirement": "Misc",
+    "Reward": "None"
   }
 ]

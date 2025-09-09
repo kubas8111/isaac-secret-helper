@@ -12,7 +12,7 @@ namespace IsaacSecretHelper
             HelpText = "Path to a specific save file. Overrides --saves-folder and --save")]
         public string SaveFile { get; init; }
 
-        [Option('d', "saves-folder", Default = "%UserProfile%\\Documents\\My Games\\Binding of Isaac Repentance",
+        [Option('d', "saves-folder", Default = "%UserProfile%\\Documents\\My Games\\Binding of Isaac Repentance+\\save_backups",
             HelpText = "Folder where your saves are located")]
         public string SavesFolder { get; init; }
 
